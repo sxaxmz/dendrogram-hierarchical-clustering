@@ -7,7 +7,7 @@ A diagram that represents the relationships of similarity among a group of entit
  * Split dendrogram into multiple clusters through setting the threshold at a custom/specific points based eculadine distance. Each intersection with a vertical line  represents a cluster (Highlighted in black square in below images)
  * The optimal number of clusters can be by looking for the highest vertical distance that doesn't cross a hypothetical horizontal line (the line that is placed in the same level horizontally)
  
-![First Dendrogram (Used Car Investory)](car_inventory_.png) 
+![First Dendrogram (Used Car Investory)](car_inventory__.png) 
 ![First Dendrogram (Mall's Customers)](mall_customers_dendrogram.png)
 
 
